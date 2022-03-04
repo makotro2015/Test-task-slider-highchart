@@ -1,0 +1,6 @@
+{
+  "hosting": {
+    "public": "dist/yet-another-sankey",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
